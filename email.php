@@ -4,4 +4,6 @@
 	echo "another email sent";
 
 	echo "second line from cli";
+	echo "second line from online";
+
 ?>
