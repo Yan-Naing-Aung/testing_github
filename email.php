@@ -9,5 +9,6 @@
 
 	echo "third line from online";
 	echo "third line from cli";
-
+	
+	echo "another test by myself";
 ?>
